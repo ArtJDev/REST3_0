@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.netology</groupId>
-	<artifactId>REST2_0</artifactId>
+	<artifactId>REST3_0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>REST2_0</name>
-	<description>REST2_0</description>
+	<name>REST3_0</name>
+	<description>REST3_0</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
